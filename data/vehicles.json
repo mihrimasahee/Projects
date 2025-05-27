@@ -1,0 +1,32 @@
+{
+    "0": {
+        "name": "BMW",
+        "type": "Musele",
+        "price": 790980,
+        "image": "hppsdf ddd"
+    },
+    "2": {
+        "name": "Tesla",
+        "type": "Electric",
+        "price": "839487953",
+        "image": "adflkdf ksdjl"
+    },
+    "3": {
+        "name": "Toyata",
+        "type": "Private Car",
+        "price": 55487632,
+        "image": "TOTATA prius"
+    },
+    "4": {
+        "name": "Royal enfield",
+        "type": "MotorCycle",
+        "price": 55482,
+        "image": "Royal Enfield PIC"
+    },
+    "5": {
+        "name": "Tata Nano",
+        "type": "MINI",
+        "price": 5548222,
+        "image": "TATA PIC"
+    }
+}
